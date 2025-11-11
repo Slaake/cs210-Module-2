@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/slaake/Code/cs210/cs210 Module 2/calculator'
-relocations:     []
-...
